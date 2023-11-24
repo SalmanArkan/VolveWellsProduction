@@ -14,7 +14,13 @@ In essence, the project seeks to bridge the gap between production data disparit
 
 ## Data Collection
 
-The dataset in question is sourced from the official Equinor website, available at https://www.equinor.com/energy/volve-data-sharing. This reputable platform provides access to the Volve data, ensuring the reliability and integrity of the dataset for professional use and analysis.
+The dataset in question is sourced from the official Equinor website, available at **equinor**.
+
+<a href="https://www.equinor.com/energy/volve-data-sharing" target="_blank">
+<img src="http://www.traineeprograms.com/sites/default/files/2022-08/Equinor%20Logo_0.png" width="400" height="200" border="10" />
+</a>
+
+This reputable platform provides access to the Volve data, ensuring the reliability and integrity of the dataset for professional use and analysis.
 
 The dataset consists of daily production records from the Volve field. The main components necessary for the analysis are the production date, well identification codes, and production metrics for oil, gas, and water. These data elements are essential for conducting a comprehensive and rigorous analytical examination.
 
@@ -26,10 +32,14 @@ The initial step review of the data description is a foundational measure to fac
 
 *   Six out of the seven wells were identified as oil producers (OP) and retained in the dataset.
 *   The box plot reveals the presence of outliers in oil production exceeding approximately 3,000 units and gas production surpassing 460,000 units.
-*   The distribution-plot reveals a notable frequency of wells yielding zero oil, gas, and water production output.
+*   The distribution plot reveals a notable frequency of wells yielding zero oil, gas, and water production output.
 *   The ECDF plot highlights Well #7405 as having the highest proportion of instances with zero oil and gas production at 40%, with Well #7289 and Well #5769 closely following at 18-22% each.
 *   The scatter-plot analysis reveals that Well #5599 and Well #5351 exhibit characteristics indicative of wells with the most substantial oil and gas production throughout the specified year.
 
 # Contact Me
 
-For further inquiries or to initiate a discussion, please feel free to contact me via <a href="mailto:salmanarkan020@gmail.com"><span class="label">email</span></a>. Additionally, you can visit my professional <a href="SalmanArkan.github.io"><span class="label">website</span></a>.
+For further inquiries or to initiate a discussion, please feel free to contact me via <a href="mailto:salmanarkan020@gmail.com"><span class="label">email</span></a>. Additionally, you can visit my professional website (click the image/gif).
+
+<a href="SalmanArkan.github.io" target="_blank">
+<img src="https://github.com/SalmanArkan/SalmanArkan/blob/main/GithubBanner.gif" width="400" height="200" border="10" />
+</a>
